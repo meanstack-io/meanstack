@@ -61,10 +61,10 @@
     "mongoose": "^4.4.19",
     "mongoose-unique-validator": "^1.0.2",
     "morgan": "~1.6.1",
-    "node-uuid": "^1.4.7",
     "nodemailer": "^2.2.1",
     "passport": "^0.3.2",
     "serve-favicon": "~2.3.0",
+    "uuid": "^3.0.0",
     "winston": "^2.2.0"
   },
   "devDependencies": {
